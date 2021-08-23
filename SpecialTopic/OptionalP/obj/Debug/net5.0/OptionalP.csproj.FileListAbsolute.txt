@@ -1,0 +1,16 @@
+G:\TRAINING\SpecialTopic\OptionalP\bin\Debug\net5.0\OptionalP.exe
+G:\TRAINING\SpecialTopic\OptionalP\bin\Debug\net5.0\OptionalP.deps.json
+G:\TRAINING\SpecialTopic\OptionalP\bin\Debug\net5.0\OptionalP.runtimeconfig.json
+G:\TRAINING\SpecialTopic\OptionalP\bin\Debug\net5.0\OptionalP.runtimeconfig.dev.json
+G:\TRAINING\SpecialTopic\OptionalP\bin\Debug\net5.0\OptionalP.dll
+G:\TRAINING\SpecialTopic\OptionalP\bin\Debug\net5.0\ref\OptionalP.dll
+G:\TRAINING\SpecialTopic\OptionalP\bin\Debug\net5.0\OptionalP.pdb
+G:\TRAINING\SpecialTopic\OptionalP\obj\Debug\net5.0\OptionalP.csproj.AssemblyReference.cache
+G:\TRAINING\SpecialTopic\OptionalP\obj\Debug\net5.0\OptionalP.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\SpecialTopic\OptionalP\obj\Debug\net5.0\OptionalP.AssemblyInfoInputs.cache
+G:\TRAINING\SpecialTopic\OptionalP\obj\Debug\net5.0\OptionalP.AssemblyInfo.cs
+G:\TRAINING\SpecialTopic\OptionalP\obj\Debug\net5.0\OptionalP.csproj.CoreCompileInputs.cache
+G:\TRAINING\SpecialTopic\OptionalP\obj\Debug\net5.0\OptionalP.dll
+G:\TRAINING\SpecialTopic\OptionalP\obj\Debug\net5.0\ref\OptionalP.dll
+G:\TRAINING\SpecialTopic\OptionalP\obj\Debug\net5.0\OptionalP.pdb
+G:\TRAINING\SpecialTopic\OptionalP\obj\Debug\net5.0\OptionalP.genruntimeconfig.cache

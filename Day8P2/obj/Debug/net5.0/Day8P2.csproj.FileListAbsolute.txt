@@ -1,0 +1,16 @@
+G:\TRAINING\Day8P2\bin\Debug\net5.0\Day8P2.exe
+G:\TRAINING\Day8P2\bin\Debug\net5.0\Day8P2.deps.json
+G:\TRAINING\Day8P2\bin\Debug\net5.0\Day8P2.runtimeconfig.json
+G:\TRAINING\Day8P2\bin\Debug\net5.0\Day8P2.runtimeconfig.dev.json
+G:\TRAINING\Day8P2\bin\Debug\net5.0\Day8P2.dll
+G:\TRAINING\Day8P2\bin\Debug\net5.0\ref\Day8P2.dll
+G:\TRAINING\Day8P2\bin\Debug\net5.0\Day8P2.pdb
+G:\TRAINING\Day8P2\obj\Debug\net5.0\Day8P2.csproj.AssemblyReference.cache
+G:\TRAINING\Day8P2\obj\Debug\net5.0\Day8P2.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day8P2\obj\Debug\net5.0\Day8P2.AssemblyInfoInputs.cache
+G:\TRAINING\Day8P2\obj\Debug\net5.0\Day8P2.AssemblyInfo.cs
+G:\TRAINING\Day8P2\obj\Debug\net5.0\Day8P2.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day8P2\obj\Debug\net5.0\Day8P2.dll
+G:\TRAINING\Day8P2\obj\Debug\net5.0\ref\Day8P2.dll
+G:\TRAINING\Day8P2\obj\Debug\net5.0\Day8P2.pdb
+G:\TRAINING\Day8P2\obj\Debug\net5.0\Day8P2.genruntimeconfig.cache

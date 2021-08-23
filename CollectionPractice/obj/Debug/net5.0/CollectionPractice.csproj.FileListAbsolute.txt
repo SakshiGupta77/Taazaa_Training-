@@ -1,0 +1,16 @@
+G:\TRAINING\CollectionPractice\bin\Debug\net5.0\CollectionPractice.exe
+G:\TRAINING\CollectionPractice\bin\Debug\net5.0\CollectionPractice.deps.json
+G:\TRAINING\CollectionPractice\bin\Debug\net5.0\CollectionPractice.runtimeconfig.json
+G:\TRAINING\CollectionPractice\bin\Debug\net5.0\CollectionPractice.runtimeconfig.dev.json
+G:\TRAINING\CollectionPractice\bin\Debug\net5.0\CollectionPractice.dll
+G:\TRAINING\CollectionPractice\bin\Debug\net5.0\ref\CollectionPractice.dll
+G:\TRAINING\CollectionPractice\bin\Debug\net5.0\CollectionPractice.pdb
+G:\TRAINING\CollectionPractice\obj\Debug\net5.0\CollectionPractice.csproj.AssemblyReference.cache
+G:\TRAINING\CollectionPractice\obj\Debug\net5.0\CollectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\CollectionPractice\obj\Debug\net5.0\CollectionPractice.AssemblyInfoInputs.cache
+G:\TRAINING\CollectionPractice\obj\Debug\net5.0\CollectionPractice.AssemblyInfo.cs
+G:\TRAINING\CollectionPractice\obj\Debug\net5.0\CollectionPractice.csproj.CoreCompileInputs.cache
+G:\TRAINING\CollectionPractice\obj\Debug\net5.0\CollectionPractice.dll
+G:\TRAINING\CollectionPractice\obj\Debug\net5.0\ref\CollectionPractice.dll
+G:\TRAINING\CollectionPractice\obj\Debug\net5.0\CollectionPractice.pdb
+G:\TRAINING\CollectionPractice\obj\Debug\net5.0\CollectionPractice.genruntimeconfig.cache

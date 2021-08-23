@@ -1,0 +1,16 @@
+G:\TRAINING\Day8Assignmenet\bin\Debug\net5.0\Day8Assignmenet.exe
+G:\TRAINING\Day8Assignmenet\bin\Debug\net5.0\Day8Assignmenet.deps.json
+G:\TRAINING\Day8Assignmenet\bin\Debug\net5.0\Day8Assignmenet.runtimeconfig.json
+G:\TRAINING\Day8Assignmenet\bin\Debug\net5.0\Day8Assignmenet.runtimeconfig.dev.json
+G:\TRAINING\Day8Assignmenet\bin\Debug\net5.0\Day8Assignmenet.dll
+G:\TRAINING\Day8Assignmenet\bin\Debug\net5.0\ref\Day8Assignmenet.dll
+G:\TRAINING\Day8Assignmenet\bin\Debug\net5.0\Day8Assignmenet.pdb
+G:\TRAINING\Day8Assignmenet\obj\Debug\net5.0\Day8Assignmenet.csproj.AssemblyReference.cache
+G:\TRAINING\Day8Assignmenet\obj\Debug\net5.0\Day8Assignmenet.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day8Assignmenet\obj\Debug\net5.0\Day8Assignmenet.AssemblyInfoInputs.cache
+G:\TRAINING\Day8Assignmenet\obj\Debug\net5.0\Day8Assignmenet.AssemblyInfo.cs
+G:\TRAINING\Day8Assignmenet\obj\Debug\net5.0\Day8Assignmenet.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day8Assignmenet\obj\Debug\net5.0\Day8Assignmenet.dll
+G:\TRAINING\Day8Assignmenet\obj\Debug\net5.0\ref\Day8Assignmenet.dll
+G:\TRAINING\Day8Assignmenet\obj\Debug\net5.0\Day8Assignmenet.pdb
+G:\TRAINING\Day8Assignmenet\obj\Debug\net5.0\Day8Assignmenet.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\TRAINING\SpecialTopic\bin\Debug\net5.0\SpecialTopic.exe
+G:\TRAINING\SpecialTopic\bin\Debug\net5.0\SpecialTopic.deps.json
+G:\TRAINING\SpecialTopic\bin\Debug\net5.0\SpecialTopic.runtimeconfig.json
+G:\TRAINING\SpecialTopic\bin\Debug\net5.0\SpecialTopic.runtimeconfig.dev.json
+G:\TRAINING\SpecialTopic\bin\Debug\net5.0\SpecialTopic.dll
+G:\TRAINING\SpecialTopic\bin\Debug\net5.0\ref\SpecialTopic.dll
+G:\TRAINING\SpecialTopic\bin\Debug\net5.0\SpecialTopic.pdb
+G:\TRAINING\SpecialTopic\obj\Debug\net5.0\SpecialTopic.csproj.AssemblyReference.cache
+G:\TRAINING\SpecialTopic\obj\Debug\net5.0\SpecialTopic.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\SpecialTopic\obj\Debug\net5.0\SpecialTopic.AssemblyInfoInputs.cache
+G:\TRAINING\SpecialTopic\obj\Debug\net5.0\SpecialTopic.AssemblyInfo.cs
+G:\TRAINING\SpecialTopic\obj\Debug\net5.0\SpecialTopic.csproj.CoreCompileInputs.cache
+G:\TRAINING\SpecialTopic\obj\Debug\net5.0\SpecialTopic.dll
+G:\TRAINING\SpecialTopic\obj\Debug\net5.0\ref\SpecialTopic.dll
+G:\TRAINING\SpecialTopic\obj\Debug\net5.0\SpecialTopic.pdb
+G:\TRAINING\SpecialTopic\obj\Debug\net5.0\SpecialTopic.genruntimeconfig.cache
