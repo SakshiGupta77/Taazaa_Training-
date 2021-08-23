@@ -1,0 +1,16 @@
+C:\Loops\bin\Debug\net5.0\Loops.exe
+C:\Loops\bin\Debug\net5.0\Loops.deps.json
+C:\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+C:\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+C:\Loops\bin\Debug\net5.0\Loops.dll
+C:\Loops\bin\Debug\net5.0\ref\Loops.dll
+C:\Loops\bin\Debug\net5.0\Loops.pdb
+C:\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+C:\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+C:\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+C:\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+C:\Loops\obj\Debug\net5.0\Loops.dll
+C:\Loops\obj\Debug\net5.0\ref\Loops.dll
+C:\Loops\obj\Debug\net5.0\Loops.pdb
+C:\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache

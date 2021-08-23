@@ -1,0 +1,16 @@
+C:\day3\Abstraction\bin\Debug\net5.0\Abstraction.exe
+C:\day3\Abstraction\bin\Debug\net5.0\Abstraction.deps.json
+C:\day3\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.json
+C:\day3\Abstraction\bin\Debug\net5.0\Abstraction.runtimeconfig.dev.json
+C:\day3\Abstraction\bin\Debug\net5.0\Abstraction.dll
+C:\day3\Abstraction\bin\Debug\net5.0\ref\Abstraction.dll
+C:\day3\Abstraction\bin\Debug\net5.0\Abstraction.pdb
+C:\day3\Abstraction\obj\Debug\net5.0\Abstraction.csproj.AssemblyReference.cache
+C:\day3\Abstraction\obj\Debug\net5.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\day3\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfoInputs.cache
+C:\day3\Abstraction\obj\Debug\net5.0\Abstraction.AssemblyInfo.cs
+C:\day3\Abstraction\obj\Debug\net5.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\day3\Abstraction\obj\Debug\net5.0\Abstraction.dll
+C:\day3\Abstraction\obj\Debug\net5.0\ref\Abstraction.dll
+C:\day3\Abstraction\obj\Debug\net5.0\Abstraction.pdb
+C:\day3\Abstraction\obj\Debug\net5.0\Abstraction.genruntimeconfig.cache

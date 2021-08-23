@@ -1,0 +1,16 @@
+C:\day6\DelegatePractice\bin\Debug\net5.0\DelegatePractice.exe
+C:\day6\DelegatePractice\bin\Debug\net5.0\DelegatePractice.deps.json
+C:\day6\DelegatePractice\bin\Debug\net5.0\DelegatePractice.runtimeconfig.json
+C:\day6\DelegatePractice\bin\Debug\net5.0\DelegatePractice.runtimeconfig.dev.json
+C:\day6\DelegatePractice\bin\Debug\net5.0\DelegatePractice.dll
+C:\day6\DelegatePractice\bin\Debug\net5.0\ref\DelegatePractice.dll
+C:\day6\DelegatePractice\bin\Debug\net5.0\DelegatePractice.pdb
+C:\day6\DelegatePractice\obj\Debug\net5.0\DelegatePractice.csproj.AssemblyReference.cache
+C:\day6\DelegatePractice\obj\Debug\net5.0\DelegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\day6\DelegatePractice\obj\Debug\net5.0\DelegatePractice.AssemblyInfoInputs.cache
+C:\day6\DelegatePractice\obj\Debug\net5.0\DelegatePractice.AssemblyInfo.cs
+C:\day6\DelegatePractice\obj\Debug\net5.0\DelegatePractice.csproj.CoreCompileInputs.cache
+C:\day6\DelegatePractice\obj\Debug\net5.0\DelegatePractice.dll
+C:\day6\DelegatePractice\obj\Debug\net5.0\ref\DelegatePractice.dll
+C:\day6\DelegatePractice\obj\Debug\net5.0\DelegatePractice.pdb
+C:\day6\DelegatePractice\obj\Debug\net5.0\DelegatePractice.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\CollectionNS\bin\Debug\net5.0\CollectionNS.exe
+C:\CollectionNS\bin\Debug\net5.0\CollectionNS.deps.json
+C:\CollectionNS\bin\Debug\net5.0\CollectionNS.runtimeconfig.json
+C:\CollectionNS\bin\Debug\net5.0\CollectionNS.runtimeconfig.dev.json
+C:\CollectionNS\bin\Debug\net5.0\CollectionNS.dll
+C:\CollectionNS\bin\Debug\net5.0\ref\CollectionNS.dll
+C:\CollectionNS\bin\Debug\net5.0\CollectionNS.pdb
+C:\CollectionNS\obj\Debug\net5.0\CollectionNS.csproj.AssemblyReference.cache
+C:\CollectionNS\obj\Debug\net5.0\CollectionNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\CollectionNS\obj\Debug\net5.0\CollectionNS.AssemblyInfoInputs.cache
+C:\CollectionNS\obj\Debug\net5.0\CollectionNS.AssemblyInfo.cs
+C:\CollectionNS\obj\Debug\net5.0\CollectionNS.csproj.CoreCompileInputs.cache
+C:\CollectionNS\obj\Debug\net5.0\CollectionNS.dll
+C:\CollectionNS\obj\Debug\net5.0\ref\CollectionNS.dll
+C:\CollectionNS\obj\Debug\net5.0\CollectionNS.pdb
+C:\CollectionNS\obj\Debug\net5.0\CollectionNS.genruntimeconfig.cache

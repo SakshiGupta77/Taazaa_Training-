@@ -1,0 +1,16 @@
+C:\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.exe
+C:\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.deps.json
+C:\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.runtimeconfig.json
+C:\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.runtimeconfig.dev.json
+C:\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.dll
+C:\SelfAnalyse\bin\Debug\net5.0\ref\SelfAnalyse.dll
+C:\SelfAnalyse\bin\Debug\net5.0\SelfAnalyse.pdb
+C:\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.csproj.AssemblyReference.cache
+C:\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.GeneratedMSBuildEditorConfig.editorconfig
+C:\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.AssemblyInfoInputs.cache
+C:\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.AssemblyInfo.cs
+C:\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.csproj.CoreCompileInputs.cache
+C:\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.dll
+C:\SelfAnalyse\obj\Debug\net5.0\ref\SelfAnalyse.dll
+C:\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.pdb
+C:\SelfAnalyse\obj\Debug\net5.0\SelfAnalyse.genruntimeconfig.cache

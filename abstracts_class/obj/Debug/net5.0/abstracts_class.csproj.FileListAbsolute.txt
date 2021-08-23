@@ -1,0 +1,16 @@
+C:\abstracts_class\obj\Debug\net5.0\abstracts_class.csproj.AssemblyReference.cache
+C:\abstracts_class\obj\Debug\net5.0\abstracts_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\abstracts_class\obj\Debug\net5.0\abstracts_class.AssemblyInfoInputs.cache
+C:\abstracts_class\obj\Debug\net5.0\abstracts_class.AssemblyInfo.cs
+C:\abstracts_class\obj\Debug\net5.0\abstracts_class.csproj.CoreCompileInputs.cache
+C:\abstracts_class\bin\Debug\net5.0\abstracts_class.exe
+C:\abstracts_class\bin\Debug\net5.0\abstracts_class.deps.json
+C:\abstracts_class\bin\Debug\net5.0\abstracts_class.runtimeconfig.json
+C:\abstracts_class\bin\Debug\net5.0\abstracts_class.runtimeconfig.dev.json
+C:\abstracts_class\bin\Debug\net5.0\abstracts_class.dll
+C:\abstracts_class\bin\Debug\net5.0\ref\abstracts_class.dll
+C:\abstracts_class\bin\Debug\net5.0\abstracts_class.pdb
+C:\abstracts_class\obj\Debug\net5.0\abstracts_class.dll
+C:\abstracts_class\obj\Debug\net5.0\ref\abstracts_class.dll
+C:\abstracts_class\obj\Debug\net5.0\abstracts_class.pdb
+C:\abstracts_class\obj\Debug\net5.0\abstracts_class.genruntimeconfig.cache

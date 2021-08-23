@@ -1,0 +1,16 @@
+C:\Constructorp\bin\Debug\net5.0\Constructorp.exe
+C:\Constructorp\bin\Debug\net5.0\Constructorp.deps.json
+C:\Constructorp\bin\Debug\net5.0\Constructorp.runtimeconfig.json
+C:\Constructorp\bin\Debug\net5.0\Constructorp.runtimeconfig.dev.json
+C:\Constructorp\bin\Debug\net5.0\Constructorp.dll
+C:\Constructorp\bin\Debug\net5.0\ref\Constructorp.dll
+C:\Constructorp\bin\Debug\net5.0\Constructorp.pdb
+C:\Constructorp\obj\Debug\net5.0\Constructorp.csproj.AssemblyReference.cache
+C:\Constructorp\obj\Debug\net5.0\Constructorp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Constructorp\obj\Debug\net5.0\Constructorp.AssemblyInfoInputs.cache
+C:\Constructorp\obj\Debug\net5.0\Constructorp.AssemblyInfo.cs
+C:\Constructorp\obj\Debug\net5.0\Constructorp.csproj.CoreCompileInputs.cache
+C:\Constructorp\obj\Debug\net5.0\Constructorp.dll
+C:\Constructorp\obj\Debug\net5.0\ref\Constructorp.dll
+C:\Constructorp\obj\Debug\net5.0\Constructorp.pdb
+C:\Constructorp\obj\Debug\net5.0\Constructorp.genruntimeconfig.cache

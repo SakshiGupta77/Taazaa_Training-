@@ -1,0 +1,16 @@
+G:\TRAINING\day9\PracticeProject\bin\Debug\net5.0\PracticeProject.exe
+G:\TRAINING\day9\PracticeProject\bin\Debug\net5.0\PracticeProject.deps.json
+G:\TRAINING\day9\PracticeProject\bin\Debug\net5.0\PracticeProject.runtimeconfig.json
+G:\TRAINING\day9\PracticeProject\bin\Debug\net5.0\PracticeProject.runtimeconfig.dev.json
+G:\TRAINING\day9\PracticeProject\bin\Debug\net5.0\PracticeProject.dll
+G:\TRAINING\day9\PracticeProject\bin\Debug\net5.0\ref\PracticeProject.dll
+G:\TRAINING\day9\PracticeProject\bin\Debug\net5.0\PracticeProject.pdb
+G:\TRAINING\day9\PracticeProject\obj\Debug\net5.0\PracticeProject.csproj.AssemblyReference.cache
+G:\TRAINING\day9\PracticeProject\obj\Debug\net5.0\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\day9\PracticeProject\obj\Debug\net5.0\PracticeProject.AssemblyInfoInputs.cache
+G:\TRAINING\day9\PracticeProject\obj\Debug\net5.0\PracticeProject.AssemblyInfo.cs
+G:\TRAINING\day9\PracticeProject\obj\Debug\net5.0\PracticeProject.csproj.CoreCompileInputs.cache
+G:\TRAINING\day9\PracticeProject\obj\Debug\net5.0\PracticeProject.dll
+G:\TRAINING\day9\PracticeProject\obj\Debug\net5.0\ref\PracticeProject.dll
+G:\TRAINING\day9\PracticeProject\obj\Debug\net5.0\PracticeProject.pdb
+G:\TRAINING\day9\PracticeProject\obj\Debug\net5.0\PracticeProject.genruntimeconfig.cache

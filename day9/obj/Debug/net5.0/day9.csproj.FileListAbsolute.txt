@@ -1,0 +1,16 @@
+G:\TRAINING\day9\bin\Debug\net5.0\day9.exe
+G:\TRAINING\day9\bin\Debug\net5.0\day9.deps.json
+G:\TRAINING\day9\bin\Debug\net5.0\day9.runtimeconfig.json
+G:\TRAINING\day9\bin\Debug\net5.0\day9.runtimeconfig.dev.json
+G:\TRAINING\day9\bin\Debug\net5.0\day9.dll
+G:\TRAINING\day9\bin\Debug\net5.0\ref\day9.dll
+G:\TRAINING\day9\bin\Debug\net5.0\day9.pdb
+G:\TRAINING\day9\obj\Debug\net5.0\day9.csproj.AssemblyReference.cache
+G:\TRAINING\day9\obj\Debug\net5.0\day9.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\day9\obj\Debug\net5.0\day9.AssemblyInfoInputs.cache
+G:\TRAINING\day9\obj\Debug\net5.0\day9.AssemblyInfo.cs
+G:\TRAINING\day9\obj\Debug\net5.0\day9.csproj.CoreCompileInputs.cache
+G:\TRAINING\day9\obj\Debug\net5.0\day9.dll
+G:\TRAINING\day9\obj\Debug\net5.0\ref\day9.dll
+G:\TRAINING\day9\obj\Debug\net5.0\day9.pdb
+G:\TRAINING\day9\obj\Debug\net5.0\day9.genruntimeconfig.cache

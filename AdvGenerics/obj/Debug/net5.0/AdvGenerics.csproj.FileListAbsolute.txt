@@ -1,0 +1,16 @@
+C:\AdvGenerics\bin\Debug\net5.0\AdvGenerics.exe
+C:\AdvGenerics\bin\Debug\net5.0\AdvGenerics.deps.json
+C:\AdvGenerics\bin\Debug\net5.0\AdvGenerics.runtimeconfig.json
+C:\AdvGenerics\bin\Debug\net5.0\AdvGenerics.runtimeconfig.dev.json
+C:\AdvGenerics\bin\Debug\net5.0\AdvGenerics.dll
+C:\AdvGenerics\bin\Debug\net5.0\ref\AdvGenerics.dll
+C:\AdvGenerics\bin\Debug\net5.0\AdvGenerics.pdb
+C:\AdvGenerics\obj\Debug\net5.0\AdvGenerics.csproj.AssemblyReference.cache
+C:\AdvGenerics\obj\Debug\net5.0\AdvGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\AdvGenerics\obj\Debug\net5.0\AdvGenerics.AssemblyInfoInputs.cache
+C:\AdvGenerics\obj\Debug\net5.0\AdvGenerics.AssemblyInfo.cs
+C:\AdvGenerics\obj\Debug\net5.0\AdvGenerics.csproj.CoreCompileInputs.cache
+C:\AdvGenerics\obj\Debug\net5.0\AdvGenerics.dll
+C:\AdvGenerics\obj\Debug\net5.0\ref\AdvGenerics.dll
+C:\AdvGenerics\obj\Debug\net5.0\AdvGenerics.pdb
+C:\AdvGenerics\obj\Debug\net5.0\AdvGenerics.genruntimeconfig.cache

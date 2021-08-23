@@ -1,0 +1,16 @@
+C:\day6\AdvancedDelegate\bin\Debug\net5.0\AdvancedDelegate.exe
+C:\day6\AdvancedDelegate\bin\Debug\net5.0\AdvancedDelegate.deps.json
+C:\day6\AdvancedDelegate\bin\Debug\net5.0\AdvancedDelegate.runtimeconfig.json
+C:\day6\AdvancedDelegate\bin\Debug\net5.0\AdvancedDelegate.runtimeconfig.dev.json
+C:\day6\AdvancedDelegate\bin\Debug\net5.0\AdvancedDelegate.dll
+C:\day6\AdvancedDelegate\bin\Debug\net5.0\ref\AdvancedDelegate.dll
+C:\day6\AdvancedDelegate\bin\Debug\net5.0\AdvancedDelegate.pdb
+C:\day6\AdvancedDelegate\obj\Debug\net5.0\AdvancedDelegate.csproj.AssemblyReference.cache
+C:\day6\AdvancedDelegate\obj\Debug\net5.0\AdvancedDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\day6\AdvancedDelegate\obj\Debug\net5.0\AdvancedDelegate.AssemblyInfoInputs.cache
+C:\day6\AdvancedDelegate\obj\Debug\net5.0\AdvancedDelegate.AssemblyInfo.cs
+C:\day6\AdvancedDelegate\obj\Debug\net5.0\AdvancedDelegate.csproj.CoreCompileInputs.cache
+C:\day6\AdvancedDelegate\obj\Debug\net5.0\AdvancedDelegate.dll
+C:\day6\AdvancedDelegate\obj\Debug\net5.0\ref\AdvancedDelegate.dll
+C:\day6\AdvancedDelegate\obj\Debug\net5.0\AdvancedDelegate.pdb
+C:\day6\AdvancedDelegate\obj\Debug\net5.0\AdvancedDelegate.genruntimeconfig.cache

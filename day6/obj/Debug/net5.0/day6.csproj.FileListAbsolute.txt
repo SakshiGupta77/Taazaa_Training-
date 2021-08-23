@@ -1,0 +1,16 @@
+C:\day6\bin\Debug\net5.0\day6.exe
+C:\day6\bin\Debug\net5.0\day6.deps.json
+C:\day6\bin\Debug\net5.0\day6.runtimeconfig.json
+C:\day6\bin\Debug\net5.0\day6.runtimeconfig.dev.json
+C:\day6\bin\Debug\net5.0\day6.dll
+C:\day6\bin\Debug\net5.0\ref\day6.dll
+C:\day6\bin\Debug\net5.0\day6.pdb
+C:\day6\obj\Debug\net5.0\day6.csproj.AssemblyReference.cache
+C:\day6\obj\Debug\net5.0\day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\day6\obj\Debug\net5.0\day6.AssemblyInfoInputs.cache
+C:\day6\obj\Debug\net5.0\day6.AssemblyInfo.cs
+C:\day6\obj\Debug\net5.0\day6.csproj.CoreCompileInputs.cache
+C:\day6\obj\Debug\net5.0\day6.dll
+C:\day6\obj\Debug\net5.0\ref\day6.dll
+C:\day6\obj\Debug\net5.0\day6.pdb
+C:\day6\obj\Debug\net5.0\day6.genruntimeconfig.cache

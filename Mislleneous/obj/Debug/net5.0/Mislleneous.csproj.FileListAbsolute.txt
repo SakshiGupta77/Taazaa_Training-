@@ -1,0 +1,16 @@
+C:\Mislleneous\bin\Debug\net5.0\Mislleneous.exe
+C:\Mislleneous\bin\Debug\net5.0\Mislleneous.deps.json
+C:\Mislleneous\bin\Debug\net5.0\Mislleneous.runtimeconfig.json
+C:\Mislleneous\bin\Debug\net5.0\Mislleneous.runtimeconfig.dev.json
+C:\Mislleneous\bin\Debug\net5.0\Mislleneous.dll
+C:\Mislleneous\bin\Debug\net5.0\ref\Mislleneous.dll
+C:\Mislleneous\bin\Debug\net5.0\Mislleneous.pdb
+C:\Mislleneous\obj\Debug\net5.0\Mislleneous.csproj.AssemblyReference.cache
+C:\Mislleneous\obj\Debug\net5.0\Mislleneous.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mislleneous\obj\Debug\net5.0\Mislleneous.AssemblyInfoInputs.cache
+C:\Mislleneous\obj\Debug\net5.0\Mislleneous.AssemblyInfo.cs
+C:\Mislleneous\obj\Debug\net5.0\Mislleneous.csproj.CoreCompileInputs.cache
+C:\Mislleneous\obj\Debug\net5.0\Mislleneous.dll
+C:\Mislleneous\obj\Debug\net5.0\ref\Mislleneous.dll
+C:\Mislleneous\obj\Debug\net5.0\Mislleneous.pdb
+C:\Mislleneous\obj\Debug\net5.0\Mislleneous.genruntimeconfig.cache

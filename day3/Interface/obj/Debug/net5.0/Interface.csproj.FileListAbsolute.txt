@@ -1,0 +1,16 @@
+C:\day3\Interface\bin\Debug\net5.0\Interface.exe
+C:\day3\Interface\bin\Debug\net5.0\Interface.deps.json
+C:\day3\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+C:\day3\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+C:\day3\Interface\bin\Debug\net5.0\Interface.dll
+C:\day3\Interface\bin\Debug\net5.0\ref\Interface.dll
+C:\day3\Interface\bin\Debug\net5.0\Interface.pdb
+C:\day3\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
+C:\day3\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\day3\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+C:\day3\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+C:\day3\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+C:\day3\Interface\obj\Debug\net5.0\Interface.dll
+C:\day3\Interface\obj\Debug\net5.0\ref\Interface.dll
+C:\day3\Interface\obj\Debug\net5.0\Interface.pdb
+C:\day3\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache

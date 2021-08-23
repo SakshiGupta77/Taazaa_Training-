@@ -1,0 +1,16 @@
+C:\HashTable\bin\Debug\net5.0\HashTable.exe
+C:\HashTable\bin\Debug\net5.0\HashTable.deps.json
+C:\HashTable\bin\Debug\net5.0\HashTable.runtimeconfig.json
+C:\HashTable\bin\Debug\net5.0\HashTable.runtimeconfig.dev.json
+C:\HashTable\bin\Debug\net5.0\HashTable.dll
+C:\HashTable\bin\Debug\net5.0\ref\HashTable.dll
+C:\HashTable\bin\Debug\net5.0\HashTable.pdb
+C:\HashTable\obj\Debug\net5.0\HashTable.csproj.AssemblyReference.cache
+C:\HashTable\obj\Debug\net5.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\HashTable\obj\Debug\net5.0\HashTable.AssemblyInfoInputs.cache
+C:\HashTable\obj\Debug\net5.0\HashTable.AssemblyInfo.cs
+C:\HashTable\obj\Debug\net5.0\HashTable.csproj.CoreCompileInputs.cache
+C:\HashTable\obj\Debug\net5.0\HashTable.dll
+C:\HashTable\obj\Debug\net5.0\ref\HashTable.dll
+C:\HashTable\obj\Debug\net5.0\HashTable.pdb
+C:\HashTable\obj\Debug\net5.0\HashTable.genruntimeconfig.cache

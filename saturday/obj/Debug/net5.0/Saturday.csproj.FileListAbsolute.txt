@@ -1,0 +1,16 @@
+C:\saturday\bin\Debug\net5.0\Saturday.exe
+C:\saturday\bin\Debug\net5.0\Saturday.deps.json
+C:\saturday\bin\Debug\net5.0\Saturday.runtimeconfig.json
+C:\saturday\bin\Debug\net5.0\Saturday.runtimeconfig.dev.json
+C:\saturday\bin\Debug\net5.0\Saturday.dll
+C:\saturday\bin\Debug\net5.0\ref\Saturday.dll
+C:\saturday\bin\Debug\net5.0\Saturday.pdb
+C:\saturday\obj\Debug\net5.0\Saturday.csproj.AssemblyReference.cache
+C:\saturday\obj\Debug\net5.0\Saturday.GeneratedMSBuildEditorConfig.editorconfig
+C:\saturday\obj\Debug\net5.0\Saturday.AssemblyInfoInputs.cache
+C:\saturday\obj\Debug\net5.0\Saturday.AssemblyInfo.cs
+C:\saturday\obj\Debug\net5.0\Saturday.csproj.CoreCompileInputs.cache
+C:\saturday\obj\Debug\net5.0\Saturday.dll
+C:\saturday\obj\Debug\net5.0\ref\Saturday.dll
+C:\saturday\obj\Debug\net5.0\Saturday.pdb
+C:\saturday\obj\Debug\net5.0\Saturday.genruntimeconfig.cache
