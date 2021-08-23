@@ -11,7 +11,7 @@ namespace Day8T.AdvDelegate
         {
             Console.WriteLine("9876");
         }
-         public bool StudyStatus()
+         public bool StudyStatus(string M)
         {
             return true;
         }
