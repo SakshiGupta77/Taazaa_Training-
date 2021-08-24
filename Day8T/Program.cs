@@ -20,7 +20,6 @@ namespace Day8T
             Predicate<string> Pobj = sObj.StudyStatus;
             bool pd = Pobj("gupta");
             Console.WriteLine(pd);
-
         }
     }
 }

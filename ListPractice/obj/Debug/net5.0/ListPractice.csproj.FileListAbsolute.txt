@@ -1,0 +1,5 @@
+G:\TRAINING\ListPractice\obj\Debug\net5.0\ListPractice.csproj.AssemblyReference.cache
+G:\TRAINING\ListPractice\obj\Debug\net5.0\ListPractice.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\ListPractice\obj\Debug\net5.0\ListPractice.AssemblyInfoInputs.cache
+G:\TRAINING\ListPractice\obj\Debug\net5.0\ListPractice.AssemblyInfo.cs
+G:\TRAINING\ListPractice\obj\Debug\net5.0\ListPractice.csproj.CoreCompileInputs.cache

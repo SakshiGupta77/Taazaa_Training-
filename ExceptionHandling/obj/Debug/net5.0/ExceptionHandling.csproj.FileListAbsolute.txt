@@ -1,0 +1,16 @@
+G:\TRAINING\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.exe
+G:\TRAINING\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.deps.json
+G:\TRAINING\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.json
+G:\TRAINING\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.dev.json
+G:\TRAINING\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.dll
+G:\TRAINING\ExceptionHandling\bin\Debug\net5.0\ref\ExceptionHandling.dll
+G:\TRAINING\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.pdb
+G:\TRAINING\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.AssemblyReference.cache
+G:\TRAINING\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfoInputs.cache
+G:\TRAINING\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfo.cs
+G:\TRAINING\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+G:\TRAINING\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.dll
+G:\TRAINING\ExceptionHandling\obj\Debug\net5.0\ref\ExceptionHandling.dll
+G:\TRAINING\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.pdb
+G:\TRAINING\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.genruntimeconfig.cache
