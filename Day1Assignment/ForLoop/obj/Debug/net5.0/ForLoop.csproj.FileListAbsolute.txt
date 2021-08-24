@@ -1,0 +1,16 @@
+G:\TRAINING\Day1Assignment\ForLoop\bin\Debug\net5.0\ForLoop.exe
+G:\TRAINING\Day1Assignment\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+G:\TRAINING\Day1Assignment\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+G:\TRAINING\Day1Assignment\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+G:\TRAINING\Day1Assignment\ForLoop\bin\Debug\net5.0\ForLoop.dll
+G:\TRAINING\Day1Assignment\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+G:\TRAINING\Day1Assignment\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+G:\TRAINING\Day1Assignment\ForLoop\obj\Debug\net5.0\ForLoop.csproj.AssemblyReference.cache
+G:\TRAINING\Day1Assignment\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day1Assignment\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+G:\TRAINING\Day1Assignment\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+G:\TRAINING\Day1Assignment\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day1Assignment\ForLoop\obj\Debug\net5.0\ForLoop.dll
+G:\TRAINING\Day1Assignment\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+G:\TRAINING\Day1Assignment\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+G:\TRAINING\Day1Assignment\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache

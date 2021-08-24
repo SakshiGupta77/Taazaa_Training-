@@ -1,0 +1,16 @@
+G:\TRAINING\Day1Assignment\ImmutableString\bin\Debug\net5.0\ImmutableString.exe
+G:\TRAINING\Day1Assignment\ImmutableString\bin\Debug\net5.0\ImmutableString.deps.json
+G:\TRAINING\Day1Assignment\ImmutableString\bin\Debug\net5.0\ImmutableString.runtimeconfig.json
+G:\TRAINING\Day1Assignment\ImmutableString\bin\Debug\net5.0\ImmutableString.runtimeconfig.dev.json
+G:\TRAINING\Day1Assignment\ImmutableString\bin\Debug\net5.0\ImmutableString.dll
+G:\TRAINING\Day1Assignment\ImmutableString\bin\Debug\net5.0\ref\ImmutableString.dll
+G:\TRAINING\Day1Assignment\ImmutableString\bin\Debug\net5.0\ImmutableString.pdb
+G:\TRAINING\Day1Assignment\ImmutableString\obj\Debug\net5.0\ImmutableString.csproj.AssemblyReference.cache
+G:\TRAINING\Day1Assignment\ImmutableString\obj\Debug\net5.0\ImmutableString.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day1Assignment\ImmutableString\obj\Debug\net5.0\ImmutableString.AssemblyInfoInputs.cache
+G:\TRAINING\Day1Assignment\ImmutableString\obj\Debug\net5.0\ImmutableString.AssemblyInfo.cs
+G:\TRAINING\Day1Assignment\ImmutableString\obj\Debug\net5.0\ImmutableString.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day1Assignment\ImmutableString\obj\Debug\net5.0\ImmutableString.dll
+G:\TRAINING\Day1Assignment\ImmutableString\obj\Debug\net5.0\ref\ImmutableString.dll
+G:\TRAINING\Day1Assignment\ImmutableString\obj\Debug\net5.0\ImmutableString.pdb
+G:\TRAINING\Day1Assignment\ImmutableString\obj\Debug\net5.0\ImmutableString.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+G:\TRAINING\Day1Assignment\VerbatingString\bin\Debug\net5.0\VerbatingString.exe
+G:\TRAINING\Day1Assignment\VerbatingString\bin\Debug\net5.0\VerbatingString.deps.json
+G:\TRAINING\Day1Assignment\VerbatingString\bin\Debug\net5.0\VerbatingString.runtimeconfig.json
+G:\TRAINING\Day1Assignment\VerbatingString\bin\Debug\net5.0\VerbatingString.runtimeconfig.dev.json
+G:\TRAINING\Day1Assignment\VerbatingString\bin\Debug\net5.0\VerbatingString.dll
+G:\TRAINING\Day1Assignment\VerbatingString\bin\Debug\net5.0\ref\VerbatingString.dll
+G:\TRAINING\Day1Assignment\VerbatingString\bin\Debug\net5.0\VerbatingString.pdb
+G:\TRAINING\Day1Assignment\VerbatingString\obj\Debug\net5.0\VerbatingString.csproj.AssemblyReference.cache
+G:\TRAINING\Day1Assignment\VerbatingString\obj\Debug\net5.0\VerbatingString.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day1Assignment\VerbatingString\obj\Debug\net5.0\VerbatingString.AssemblyInfoInputs.cache
+G:\TRAINING\Day1Assignment\VerbatingString\obj\Debug\net5.0\VerbatingString.AssemblyInfo.cs
+G:\TRAINING\Day1Assignment\VerbatingString\obj\Debug\net5.0\VerbatingString.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day1Assignment\VerbatingString\obj\Debug\net5.0\VerbatingString.dll
+G:\TRAINING\Day1Assignment\VerbatingString\obj\Debug\net5.0\ref\VerbatingString.dll
+G:\TRAINING\Day1Assignment\VerbatingString\obj\Debug\net5.0\VerbatingString.pdb
+G:\TRAINING\Day1Assignment\VerbatingString\obj\Debug\net5.0\VerbatingString.genruntimeconfig.cache

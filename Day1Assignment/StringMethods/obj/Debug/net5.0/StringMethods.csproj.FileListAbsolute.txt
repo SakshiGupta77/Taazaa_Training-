@@ -1,0 +1,16 @@
+G:\TRAINING\Day1Assignment\StringMethods\bin\Debug\net5.0\StringMethods.exe
+G:\TRAINING\Day1Assignment\StringMethods\bin\Debug\net5.0\StringMethods.deps.json
+G:\TRAINING\Day1Assignment\StringMethods\bin\Debug\net5.0\StringMethods.runtimeconfig.json
+G:\TRAINING\Day1Assignment\StringMethods\bin\Debug\net5.0\StringMethods.runtimeconfig.dev.json
+G:\TRAINING\Day1Assignment\StringMethods\bin\Debug\net5.0\StringMethods.dll
+G:\TRAINING\Day1Assignment\StringMethods\bin\Debug\net5.0\ref\StringMethods.dll
+G:\TRAINING\Day1Assignment\StringMethods\bin\Debug\net5.0\StringMethods.pdb
+G:\TRAINING\Day1Assignment\StringMethods\obj\Debug\net5.0\StringMethods.csproj.AssemblyReference.cache
+G:\TRAINING\Day1Assignment\StringMethods\obj\Debug\net5.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day1Assignment\StringMethods\obj\Debug\net5.0\StringMethods.AssemblyInfoInputs.cache
+G:\TRAINING\Day1Assignment\StringMethods\obj\Debug\net5.0\StringMethods.AssemblyInfo.cs
+G:\TRAINING\Day1Assignment\StringMethods\obj\Debug\net5.0\StringMethods.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day1Assignment\StringMethods\obj\Debug\net5.0\StringMethods.dll
+G:\TRAINING\Day1Assignment\StringMethods\obj\Debug\net5.0\ref\StringMethods.dll
+G:\TRAINING\Day1Assignment\StringMethods\obj\Debug\net5.0\StringMethods.pdb
+G:\TRAINING\Day1Assignment\StringMethods\obj\Debug\net5.0\StringMethods.genruntimeconfig.cache

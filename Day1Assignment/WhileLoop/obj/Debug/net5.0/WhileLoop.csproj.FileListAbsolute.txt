@@ -1,0 +1,16 @@
+G:\TRAINING\Day1Assignment\WhileLoop\bin\Debug\net5.0\WhileLoop.exe
+G:\TRAINING\Day1Assignment\WhileLoop\bin\Debug\net5.0\WhileLoop.deps.json
+G:\TRAINING\Day1Assignment\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.json
+G:\TRAINING\Day1Assignment\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.dev.json
+G:\TRAINING\Day1Assignment\WhileLoop\bin\Debug\net5.0\WhileLoop.dll
+G:\TRAINING\Day1Assignment\WhileLoop\bin\Debug\net5.0\ref\WhileLoop.dll
+G:\TRAINING\Day1Assignment\WhileLoop\bin\Debug\net5.0\WhileLoop.pdb
+G:\TRAINING\Day1Assignment\WhileLoop\obj\Debug\net5.0\WhileLoop.csproj.AssemblyReference.cache
+G:\TRAINING\Day1Assignment\WhileLoop\obj\Debug\net5.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day1Assignment\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfoInputs.cache
+G:\TRAINING\Day1Assignment\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfo.cs
+G:\TRAINING\Day1Assignment\WhileLoop\obj\Debug\net5.0\WhileLoop.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day1Assignment\WhileLoop\obj\Debug\net5.0\WhileLoop.dll
+G:\TRAINING\Day1Assignment\WhileLoop\obj\Debug\net5.0\ref\WhileLoop.dll
+G:\TRAINING\Day1Assignment\WhileLoop\obj\Debug\net5.0\WhileLoop.pdb
+G:\TRAINING\Day1Assignment\WhileLoop\obj\Debug\net5.0\WhileLoop.genruntimeconfig.cache

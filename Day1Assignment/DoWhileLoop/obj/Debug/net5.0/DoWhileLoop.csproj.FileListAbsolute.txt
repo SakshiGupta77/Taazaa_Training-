@@ -1,0 +1,16 @@
+G:\TRAINING\Day1Assignment\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.exe
+G:\TRAINING\Day1Assignment\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.deps.json
+G:\TRAINING\Day1Assignment\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.runtimeconfig.json
+G:\TRAINING\Day1Assignment\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.runtimeconfig.dev.json
+G:\TRAINING\Day1Assignment\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.dll
+G:\TRAINING\Day1Assignment\DoWhileLoop\bin\Debug\net5.0\ref\DoWhileLoop.dll
+G:\TRAINING\Day1Assignment\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.pdb
+G:\TRAINING\Day1Assignment\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.csproj.AssemblyReference.cache
+G:\TRAINING\Day1Assignment\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day1Assignment\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.AssemblyInfoInputs.cache
+G:\TRAINING\Day1Assignment\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.AssemblyInfo.cs
+G:\TRAINING\Day1Assignment\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day1Assignment\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.dll
+G:\TRAINING\Day1Assignment\DoWhileLoop\obj\Debug\net5.0\ref\DoWhileLoop.dll
+G:\TRAINING\Day1Assignment\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.pdb
+G:\TRAINING\Day1Assignment\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.genruntimeconfig.cache
