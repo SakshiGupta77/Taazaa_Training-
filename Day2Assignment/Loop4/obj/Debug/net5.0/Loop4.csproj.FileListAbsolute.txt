@@ -1,0 +1,16 @@
+G:\TRAINING\Day2Assignment\Loop4\bin\Debug\net5.0\Loop4.exe
+G:\TRAINING\Day2Assignment\Loop4\bin\Debug\net5.0\Loop4.deps.json
+G:\TRAINING\Day2Assignment\Loop4\bin\Debug\net5.0\Loop4.runtimeconfig.json
+G:\TRAINING\Day2Assignment\Loop4\bin\Debug\net5.0\Loop4.runtimeconfig.dev.json
+G:\TRAINING\Day2Assignment\Loop4\bin\Debug\net5.0\Loop4.dll
+G:\TRAINING\Day2Assignment\Loop4\bin\Debug\net5.0\ref\Loop4.dll
+G:\TRAINING\Day2Assignment\Loop4\bin\Debug\net5.0\Loop4.pdb
+G:\TRAINING\Day2Assignment\Loop4\obj\Debug\net5.0\Loop4.csproj.AssemblyReference.cache
+G:\TRAINING\Day2Assignment\Loop4\obj\Debug\net5.0\Loop4.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day2Assignment\Loop4\obj\Debug\net5.0\Loop4.AssemblyInfoInputs.cache
+G:\TRAINING\Day2Assignment\Loop4\obj\Debug\net5.0\Loop4.AssemblyInfo.cs
+G:\TRAINING\Day2Assignment\Loop4\obj\Debug\net5.0\Loop4.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day2Assignment\Loop4\obj\Debug\net5.0\Loop4.dll
+G:\TRAINING\Day2Assignment\Loop4\obj\Debug\net5.0\ref\Loop4.dll
+G:\TRAINING\Day2Assignment\Loop4\obj\Debug\net5.0\Loop4.pdb
+G:\TRAINING\Day2Assignment\Loop4\obj\Debug\net5.0\Loop4.genruntimeconfig.cache

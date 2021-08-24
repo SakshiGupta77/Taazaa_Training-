@@ -1,0 +1,16 @@
+G:\TRAINING\Day2Assignment\String2\bin\Debug\net5.0\String2.exe
+G:\TRAINING\Day2Assignment\String2\bin\Debug\net5.0\String2.deps.json
+G:\TRAINING\Day2Assignment\String2\bin\Debug\net5.0\String2.runtimeconfig.json
+G:\TRAINING\Day2Assignment\String2\bin\Debug\net5.0\String2.runtimeconfig.dev.json
+G:\TRAINING\Day2Assignment\String2\bin\Debug\net5.0\String2.dll
+G:\TRAINING\Day2Assignment\String2\bin\Debug\net5.0\ref\String2.dll
+G:\TRAINING\Day2Assignment\String2\bin\Debug\net5.0\String2.pdb
+G:\TRAINING\Day2Assignment\String2\obj\Debug\net5.0\String2.csproj.AssemblyReference.cache
+G:\TRAINING\Day2Assignment\String2\obj\Debug\net5.0\String2.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day2Assignment\String2\obj\Debug\net5.0\String2.AssemblyInfoInputs.cache
+G:\TRAINING\Day2Assignment\String2\obj\Debug\net5.0\String2.AssemblyInfo.cs
+G:\TRAINING\Day2Assignment\String2\obj\Debug\net5.0\String2.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day2Assignment\String2\obj\Debug\net5.0\String2.dll
+G:\TRAINING\Day2Assignment\String2\obj\Debug\net5.0\ref\String2.dll
+G:\TRAINING\Day2Assignment\String2\obj\Debug\net5.0\String2.pdb
+G:\TRAINING\Day2Assignment\String2\obj\Debug\net5.0\String2.genruntimeconfig.cache
