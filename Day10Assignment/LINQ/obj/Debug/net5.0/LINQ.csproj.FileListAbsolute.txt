@@ -1,0 +1,5 @@
+G:\TRAINING\Day10Assignment\LINQ\obj\Debug\net5.0\LINQ.csproj.AssemblyReference.cache
+G:\TRAINING\Day10Assignment\LINQ\obj\Debug\net5.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day10Assignment\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfoInputs.cache
+G:\TRAINING\Day10Assignment\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfo.cs
+G:\TRAINING\Day10Assignment\LINQ\obj\Debug\net5.0\LINQ.csproj.CoreCompileInputs.cache
