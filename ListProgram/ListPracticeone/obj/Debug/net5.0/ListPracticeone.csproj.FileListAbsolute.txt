@@ -1,0 +1,16 @@
+G:\TRAINING\ListProgram\ListPracticeone\bin\Debug\net5.0\ListPracticeone.exe
+G:\TRAINING\ListProgram\ListPracticeone\bin\Debug\net5.0\ListPracticeone.deps.json
+G:\TRAINING\ListProgram\ListPracticeone\bin\Debug\net5.0\ListPracticeone.runtimeconfig.json
+G:\TRAINING\ListProgram\ListPracticeone\bin\Debug\net5.0\ListPracticeone.runtimeconfig.dev.json
+G:\TRAINING\ListProgram\ListPracticeone\bin\Debug\net5.0\ListPracticeone.dll
+G:\TRAINING\ListProgram\ListPracticeone\bin\Debug\net5.0\ref\ListPracticeone.dll
+G:\TRAINING\ListProgram\ListPracticeone\bin\Debug\net5.0\ListPracticeone.pdb
+G:\TRAINING\ListProgram\ListPracticeone\obj\Debug\net5.0\ListPracticeone.csproj.AssemblyReference.cache
+G:\TRAINING\ListProgram\ListPracticeone\obj\Debug\net5.0\ListPracticeone.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\ListProgram\ListPracticeone\obj\Debug\net5.0\ListPracticeone.AssemblyInfoInputs.cache
+G:\TRAINING\ListProgram\ListPracticeone\obj\Debug\net5.0\ListPracticeone.AssemblyInfo.cs
+G:\TRAINING\ListProgram\ListPracticeone\obj\Debug\net5.0\ListPracticeone.csproj.CoreCompileInputs.cache
+G:\TRAINING\ListProgram\ListPracticeone\obj\Debug\net5.0\ListPracticeone.dll
+G:\TRAINING\ListProgram\ListPracticeone\obj\Debug\net5.0\ref\ListPracticeone.dll
+G:\TRAINING\ListProgram\ListPracticeone\obj\Debug\net5.0\ListPracticeone.pdb
+G:\TRAINING\ListProgram\ListPracticeone\obj\Debug\net5.0\ListPracticeone.genruntimeconfig.cache

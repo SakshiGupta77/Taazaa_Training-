@@ -1,0 +1,5 @@
+G:\TRAINING\Day13\IndexerPractice\obj\Debug\net5.0\IndexerPractice.csproj.AssemblyReference.cache
+G:\TRAINING\Day13\IndexerPractice\obj\Debug\net5.0\IndexerPractice.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day13\IndexerPractice\obj\Debug\net5.0\IndexerPractice.AssemblyInfoInputs.cache
+G:\TRAINING\Day13\IndexerPractice\obj\Debug\net5.0\IndexerPractice.AssemblyInfo.cs
+G:\TRAINING\Day13\IndexerPractice\obj\Debug\net5.0\IndexerPractice.csproj.CoreCompileInputs.cache

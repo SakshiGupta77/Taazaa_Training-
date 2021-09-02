@@ -1,0 +1,16 @@
+G:\TRAINING\day12\Indexer\bin\Debug\net5.0\Indexer.exe
+G:\TRAINING\day12\Indexer\bin\Debug\net5.0\Indexer.deps.json
+G:\TRAINING\day12\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.json
+G:\TRAINING\day12\Indexer\bin\Debug\net5.0\Indexer.runtimeconfig.dev.json
+G:\TRAINING\day12\Indexer\bin\Debug\net5.0\Indexer.dll
+G:\TRAINING\day12\Indexer\bin\Debug\net5.0\ref\Indexer.dll
+G:\TRAINING\day12\Indexer\bin\Debug\net5.0\Indexer.pdb
+G:\TRAINING\day12\Indexer\obj\Debug\net5.0\Indexer.csproj.AssemblyReference.cache
+G:\TRAINING\day12\Indexer\obj\Debug\net5.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\day12\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfoInputs.cache
+G:\TRAINING\day12\Indexer\obj\Debug\net5.0\Indexer.AssemblyInfo.cs
+G:\TRAINING\day12\Indexer\obj\Debug\net5.0\Indexer.csproj.CoreCompileInputs.cache
+G:\TRAINING\day12\Indexer\obj\Debug\net5.0\Indexer.dll
+G:\TRAINING\day12\Indexer\obj\Debug\net5.0\ref\Indexer.dll
+G:\TRAINING\day12\Indexer\obj\Debug\net5.0\Indexer.pdb
+G:\TRAINING\day12\Indexer\obj\Debug\net5.0\Indexer.genruntimeconfig.cache

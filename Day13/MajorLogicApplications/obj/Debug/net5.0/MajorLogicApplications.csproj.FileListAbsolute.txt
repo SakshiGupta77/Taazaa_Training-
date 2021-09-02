@@ -1,0 +1,16 @@
+G:\TRAINING\Day13\MajorLogicApplications\bin\Debug\net5.0\MajorLogicApplications.exe
+G:\TRAINING\Day13\MajorLogicApplications\bin\Debug\net5.0\MajorLogicApplications.deps.json
+G:\TRAINING\Day13\MajorLogicApplications\bin\Debug\net5.0\MajorLogicApplications.runtimeconfig.json
+G:\TRAINING\Day13\MajorLogicApplications\bin\Debug\net5.0\MajorLogicApplications.runtimeconfig.dev.json
+G:\TRAINING\Day13\MajorLogicApplications\bin\Debug\net5.0\MajorLogicApplications.dll
+G:\TRAINING\Day13\MajorLogicApplications\bin\Debug\net5.0\ref\MajorLogicApplications.dll
+G:\TRAINING\Day13\MajorLogicApplications\bin\Debug\net5.0\MajorLogicApplications.pdb
+G:\TRAINING\Day13\MajorLogicApplications\obj\Debug\net5.0\MajorLogicApplications.csproj.AssemblyReference.cache
+G:\TRAINING\Day13\MajorLogicApplications\obj\Debug\net5.0\MajorLogicApplications.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\Day13\MajorLogicApplications\obj\Debug\net5.0\MajorLogicApplications.AssemblyInfoInputs.cache
+G:\TRAINING\Day13\MajorLogicApplications\obj\Debug\net5.0\MajorLogicApplications.AssemblyInfo.cs
+G:\TRAINING\Day13\MajorLogicApplications\obj\Debug\net5.0\MajorLogicApplications.csproj.CoreCompileInputs.cache
+G:\TRAINING\Day13\MajorLogicApplications\obj\Debug\net5.0\MajorLogicApplications.dll
+G:\TRAINING\Day13\MajorLogicApplications\obj\Debug\net5.0\ref\MajorLogicApplications.dll
+G:\TRAINING\Day13\MajorLogicApplications\obj\Debug\net5.0\MajorLogicApplications.pdb
+G:\TRAINING\Day13\MajorLogicApplications\obj\Debug\net5.0\MajorLogicApplications.genruntimeconfig.cache

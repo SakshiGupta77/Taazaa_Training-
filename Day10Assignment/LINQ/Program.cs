@@ -2,16 +2,30 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using LINQ.Models;
 namespace LINQ
 {
     class Program
     {
-        static void Main(string[] args)
+        public int ID;
+        public string Name;
+        public int salary;
+        static void Main()
         {
-            School school = new School();  
-            var query = from ele in school.Students select ele;  
-            List<Student> lstStudents = query.ToList(); 
+            List<Program> list = new List<Program>
+            {
+                new Program{ID=1,Name="jhon",salary=2500},
+                new Program{ID=2,Name="Sena",salary=1500},
+                new Program{ID=3,Name="Max",salary=5500},
+                new Program{ID=4,Name="Gen",salary=3500}
+            };
+
+            // The "Where" LINQ operator filters a sequence
+            var highEarners = list.Where(p => p.salary > 3000);
+
+            foreach (var ele in highEarners)
+            {
+                Console.WriteLine(ele.Name);
+            }
         }
     }
 }

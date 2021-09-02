@@ -1,0 +1,16 @@
+G:\TRAINING\ThreadingProgram\obj\Debug\net5.0\ThreadingProgram.csproj.AssemblyReference.cache
+G:\TRAINING\ThreadingProgram\obj\Debug\net5.0\ThreadingProgram.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\ThreadingProgram\obj\Debug\net5.0\ThreadingProgram.AssemblyInfoInputs.cache
+G:\TRAINING\ThreadingProgram\obj\Debug\net5.0\ThreadingProgram.AssemblyInfo.cs
+G:\TRAINING\ThreadingProgram\obj\Debug\net5.0\ThreadingProgram.csproj.CoreCompileInputs.cache
+G:\TRAINING\ThreadingProgram\bin\Debug\net5.0\ThreadingProgram.exe
+G:\TRAINING\ThreadingProgram\bin\Debug\net5.0\ThreadingProgram.deps.json
+G:\TRAINING\ThreadingProgram\bin\Debug\net5.0\ThreadingProgram.runtimeconfig.json
+G:\TRAINING\ThreadingProgram\bin\Debug\net5.0\ThreadingProgram.runtimeconfig.dev.json
+G:\TRAINING\ThreadingProgram\bin\Debug\net5.0\ThreadingProgram.dll
+G:\TRAINING\ThreadingProgram\bin\Debug\net5.0\ref\ThreadingProgram.dll
+G:\TRAINING\ThreadingProgram\bin\Debug\net5.0\ThreadingProgram.pdb
+G:\TRAINING\ThreadingProgram\obj\Debug\net5.0\ThreadingProgram.dll
+G:\TRAINING\ThreadingProgram\obj\Debug\net5.0\ref\ThreadingProgram.dll
+G:\TRAINING\ThreadingProgram\obj\Debug\net5.0\ThreadingProgram.pdb
+G:\TRAINING\ThreadingProgram\obj\Debug\net5.0\ThreadingProgram.genruntimeconfig.cache
