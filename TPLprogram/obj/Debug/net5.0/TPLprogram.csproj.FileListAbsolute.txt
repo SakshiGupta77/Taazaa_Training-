@@ -1,0 +1,16 @@
+G:\TRAINING\TPLprogram\obj\Debug\net5.0\TPLprogram.csproj.AssemblyReference.cache
+G:\TRAINING\TPLprogram\obj\Debug\net5.0\TPLprogram.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\TPLprogram\obj\Debug\net5.0\TPLprogram.AssemblyInfoInputs.cache
+G:\TRAINING\TPLprogram\obj\Debug\net5.0\TPLprogram.AssemblyInfo.cs
+G:\TRAINING\TPLprogram\obj\Debug\net5.0\TPLprogram.csproj.CoreCompileInputs.cache
+G:\TRAINING\TPLprogram\bin\Debug\net5.0\TPLprogram.exe
+G:\TRAINING\TPLprogram\bin\Debug\net5.0\TPLprogram.deps.json
+G:\TRAINING\TPLprogram\bin\Debug\net5.0\TPLprogram.runtimeconfig.json
+G:\TRAINING\TPLprogram\bin\Debug\net5.0\TPLprogram.runtimeconfig.dev.json
+G:\TRAINING\TPLprogram\bin\Debug\net5.0\TPLprogram.dll
+G:\TRAINING\TPLprogram\bin\Debug\net5.0\ref\TPLprogram.dll
+G:\TRAINING\TPLprogram\bin\Debug\net5.0\TPLprogram.pdb
+G:\TRAINING\TPLprogram\obj\Debug\net5.0\TPLprogram.dll
+G:\TRAINING\TPLprogram\obj\Debug\net5.0\ref\TPLprogram.dll
+G:\TRAINING\TPLprogram\obj\Debug\net5.0\TPLprogram.pdb
+G:\TRAINING\TPLprogram\obj\Debug\net5.0\TPLprogram.genruntimeconfig.cache
