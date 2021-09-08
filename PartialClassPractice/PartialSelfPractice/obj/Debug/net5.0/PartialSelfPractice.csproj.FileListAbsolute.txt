@@ -1,0 +1,16 @@
+G:\PartialClassPractice\PartialSelfPractice\bin\Debug\net5.0\PartialSelfPractice.exe
+G:\PartialClassPractice\PartialSelfPractice\bin\Debug\net5.0\PartialSelfPractice.deps.json
+G:\PartialClassPractice\PartialSelfPractice\bin\Debug\net5.0\PartialSelfPractice.runtimeconfig.json
+G:\PartialClassPractice\PartialSelfPractice\bin\Debug\net5.0\PartialSelfPractice.runtimeconfig.dev.json
+G:\PartialClassPractice\PartialSelfPractice\bin\Debug\net5.0\PartialSelfPractice.dll
+G:\PartialClassPractice\PartialSelfPractice\bin\Debug\net5.0\ref\PartialSelfPractice.dll
+G:\PartialClassPractice\PartialSelfPractice\bin\Debug\net5.0\PartialSelfPractice.pdb
+G:\PartialClassPractice\PartialSelfPractice\obj\Debug\net5.0\PartialSelfPractice.csproj.AssemblyReference.cache
+G:\PartialClassPractice\PartialSelfPractice\obj\Debug\net5.0\PartialSelfPractice.GeneratedMSBuildEditorConfig.editorconfig
+G:\PartialClassPractice\PartialSelfPractice\obj\Debug\net5.0\PartialSelfPractice.AssemblyInfoInputs.cache
+G:\PartialClassPractice\PartialSelfPractice\obj\Debug\net5.0\PartialSelfPractice.AssemblyInfo.cs
+G:\PartialClassPractice\PartialSelfPractice\obj\Debug\net5.0\PartialSelfPractice.csproj.CoreCompileInputs.cache
+G:\PartialClassPractice\PartialSelfPractice\obj\Debug\net5.0\PartialSelfPractice.dll
+G:\PartialClassPractice\PartialSelfPractice\obj\Debug\net5.0\ref\PartialSelfPractice.dll
+G:\PartialClassPractice\PartialSelfPractice\obj\Debug\net5.0\PartialSelfPractice.pdb
+G:\PartialClassPractice\PartialSelfPractice\obj\Debug\net5.0\PartialSelfPractice.genruntimeconfig.cache

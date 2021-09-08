@@ -1,0 +1,16 @@
+G:\TRAINING\day17\obj\Debug\net5.0\day17.csproj.AssemblyReference.cache
+G:\TRAINING\day17\obj\Debug\net5.0\day17.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRAINING\day17\obj\Debug\net5.0\day17.AssemblyInfoInputs.cache
+G:\TRAINING\day17\obj\Debug\net5.0\day17.AssemblyInfo.cs
+G:\TRAINING\day17\obj\Debug\net5.0\day17.csproj.CoreCompileInputs.cache
+G:\TRAINING\day17\bin\Debug\net5.0\day17.exe
+G:\TRAINING\day17\bin\Debug\net5.0\day17.deps.json
+G:\TRAINING\day17\bin\Debug\net5.0\day17.runtimeconfig.json
+G:\TRAINING\day17\bin\Debug\net5.0\day17.runtimeconfig.dev.json
+G:\TRAINING\day17\bin\Debug\net5.0\day17.dll
+G:\TRAINING\day17\bin\Debug\net5.0\ref\day17.dll
+G:\TRAINING\day17\bin\Debug\net5.0\day17.pdb
+G:\TRAINING\day17\obj\Debug\net5.0\day17.dll
+G:\TRAINING\day17\obj\Debug\net5.0\ref\day17.dll
+G:\TRAINING\day17\obj\Debug\net5.0\day17.pdb
+G:\TRAINING\day17\obj\Debug\net5.0\day17.genruntimeconfig.cache
